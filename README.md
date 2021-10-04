@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-<img src="https://jennayeo.tistory.com?label=🌻&message=blog&color=ff69b4"/> 
 
 🛠 Techs I've learned 🛠  
 
