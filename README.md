@@ -20,7 +20,7 @@ I'm a junior web developer currently working with React JS 🚀
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jennayeo.tistory.com)](https://jennayeo.tistory.com)
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://https://www.youtube.com/channel/UCpV_jeJfIguiPv95mPM3OeQ"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 🛠 Techs I've used 🛠  
