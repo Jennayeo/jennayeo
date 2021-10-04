@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-<img src="https://img.shields.io/static/v1?label=🌻&message=blog&color=ff69b4"><a src="https://jennayeo.tistory.com" /> </img>
+<img src="https://jennayeo.tistory.com?label=🌻&message=blog&color=ff69b4"/> 
 
 🛠 Techs I've learned 🛠  
 
