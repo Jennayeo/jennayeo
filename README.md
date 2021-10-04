@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 I'm a junior web developer currently working with React JS 🚀  
-♥️ I love exploring the world and programming at the beaultiful places I found!
+🌱 I love exploring the world and programming at the beaultiful places I found!
 
 &nbsp;
 
