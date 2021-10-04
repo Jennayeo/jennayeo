@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-I'm a junior web developer currently working with React JS 🚀
+I'm a junior web developer currently working with React JS 🚀  
 ♥️ I love exploring the world and programming at the beaultiful places I found!
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jennayeo.tistory.com)](https://jennayeo.tistory.com)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCpV_jeJfIguiPv95mPM3OeQ)](https://www.youtube.com/channel/UCpV_jeJfIguiPv95mPM3OeQ)
 
 
 🛠 Techs I've used 🛠  
