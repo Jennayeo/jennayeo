@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jennayeo.tistory.com)](https://jennayeo.tistory.com)
-   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCpV_jeJfIguiPv95mPM3OeQ)](https://www.youtube.com/channel/UCpV_jeJfIguiPv95mPM3OeQ)
+   [![Youtube Badge]
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jenna.jiyoung.yeo@gmail.com)](mailto:jenna.jiyoung.yeo@gmail.com)
 
 
